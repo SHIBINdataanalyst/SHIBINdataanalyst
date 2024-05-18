@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Shibin Roshan</h1>
 
 <h3 align="center">Welcome to my GitHub profile! I’m passionate about using data analytics to help businesses make smart decisions and grow. I have a solid background in tools like Excel, PowerBI, SQL, and Python. My goal is to blend technical know-how with business insight to create meaningful solutions.</h3>
