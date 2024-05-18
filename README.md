@@ -28,3 +28,7 @@ Let's Connect!
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+## Projects
+
+- [Business Insights 360](https://www.linkedin.com/posts/shibin-r-b8a9b4283_business-insight-360-dashboard-activity-7193267119982010369-7N_q?utm_source=share&utm_medium=member_desktop): An complete  analysis project providing comprehensive insights into business operations.
+
