@@ -30,5 +30,7 @@ Let's Connect!
 
 ## Projects
 
-- [Business Insights 360](https://www.linkedin.com/posts/shibin-r-b8a9b4283_business-insight-360-dashboard-activity-7193267119982010369-7N_q?utm_source=share&utm_medium=member_desktop): An complete  analysis project providing comprehensive insights into business operations.
+- [Business Insights 360](https://www.linkedin.com/posts/shibin-r-b8a9b4283_business-insight-360-dashboard-activity-7193267119982010369-7N_q?utm_source=share&utm_medium=member_desktop): A thorough analysis project delivering comprehensive insights into business operations.
+-[Sales And Financial Analytical Report ](https://www.linkedin.com/posts/shibin-r-b8a9b4283_sales-and-financial-analytics-report-of-atliq-activity-7173170667557695489-961Q?utm_source=share&utm_medium=member_desktop): A comprehensive report leveraging advanced Excel techniques to deliver in-depth sales and finance analytics for Atliq Hardware.
+   
 
