@@ -6,13 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibindataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="shibindataanalyst" /> </p>
 
 
+
 - 💼  Aspiring Data Analyst 
 - 💬 Ask me about **SQL, Excel , Power Bi**
 - 🎓 Bachelor's in Business Administration 
-
 - 📫 How to reach me **Shibinrs871@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
-## Let's Connect!
+
+
+
+Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-r-b8a9b4283/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pradeepm.analyst@gmail.com)
